@@ -1,6 +1,6 @@
 #........................................................................................
 #The following program consists of two functions.
-# 1. makeCacheMatrix which take a matrix as an input and creates a special matrix object
+# 1. makeCacheMatrix which takes a matrix as an input and creates a special matrix object
 # that can cache the inverse of the given matrix using super assignment.
 # 2. cacheSolve which returns the inverse of a given matrix.
 #........................................................................................
